@@ -1,0 +1,8 @@
+= Neo4j & LLM Fundamentals
+
+> Learn how to use Neo4j with Large Language Models
+
+
+This repository accompanies the link:https://graphacademy.neo4j.com/courses/llm-fundamentals/[Neo4j & LLM Fundamentals^] course on link:https://graphacademy.neo4j.com/[Neo4j GraphAcademy^].
+
+For a complete walkthrough of this repository, link:https://graphacademy.neo4j.com/courses/llm-fundamentals/[enrol to the course on GraphAcademy].
