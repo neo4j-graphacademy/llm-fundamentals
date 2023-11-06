@@ -1,1 +1,3 @@
 .env
+data/openai-embeddings.csv
+data/openai-embeddings-full.csv
