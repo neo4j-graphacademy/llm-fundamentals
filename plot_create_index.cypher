@@ -1,5 +1,5 @@
 CALL db.index.vector.createNodeIndex(
-    'moviePlots',
+    'moviePlotsEmbedding',
     'Movie',
     'plotEmbedding',
     1536,

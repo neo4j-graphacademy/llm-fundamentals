@@ -1,5 +1,5 @@
 CALL db.index.vector.createNodeIndex(
-    'personBio',
+    'personBiosEmbedding',
     'Person',
     'bioEmbedding',
     1536,
