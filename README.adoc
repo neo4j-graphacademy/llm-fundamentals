@@ -7,4 +7,5 @@ This repository accompanies the link:https://graphacademy.neo4j.com/courses/llm-
 
 For a complete walkthrough of this repository, link:https://graphacademy.neo4j.com/courses/llm-fundamentals/[enrol to the course on GraphAcademy].
 
-OpenAI embedding files can be found at link:https://data.neo4j.com/llm-fundamentals/openai-embeddings.csv[data.neo4j.com/llm-fundamentals/openai-embeddings.csv] and link:https://data.neo4j.com/llm-fundamentals/openai-embeddings-full.csv[data.neo4j.com/llm-fundamentals/openai-embeddings-full.csv]
+OpenAI embedding files used in the course can be found at link:https://data.neo4j.com/llm-fundamentals/openai-embeddings.csv[data.neo4j.com/llm-fundamentals/openai-embeddings.csv] and link:https://data.neo4j.com/llm-fundamentals/openai-embeddings-full.csv[data.neo4j.com/llm-fundamentals/openai-embeddings-full.csv]
+

@@ -1,3 +1,5 @@
 .env
 data/openai-embeddings.csv
 data/openai-embeddings-full.csv
+data/movie-plot-embeddings*
+data/person-bio-embeddings*
